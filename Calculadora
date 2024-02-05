@@ -1,0 +1,14 @@
+int num1=16;
+int num2=11;
+int num3=8;
+
+float suma = num1 + num2 + num3;
+float resta = num1 - num2 - num3;
+float mult = num1 * num2 * num3;
+float div = num1 / num3;
+
+
+println("La suma de " +num1+ ", " +num2+ " y " +num3+ " es= " +suma);
+println("La resta de " +num1+ ", " +num2+ " y " +num3+" es= " +resta);
+println("La multiplicación de " +num1+ ", " +num2+ " y " +num3+" es= " +mult);
+println("La división de " +num1+ " y " +num3+" es= " +div);
